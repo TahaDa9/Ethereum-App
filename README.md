@@ -16,3 +16,10 @@ First ,we need to run the below command to test using Jest :
 Second , Run the TypeScript application :
 
     `npx ts-node index.ts`
+
+## Related Links
+
+infura project id for using ethereum mainnet API key :
+https://app.infura.io/key/759e4fcbf9b7449f854586fb65f43184/all-endpoints
+Etherscan Tokens to get address :
+https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
