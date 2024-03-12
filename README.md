@@ -19,8 +19,7 @@ Second , Run the TypeScript application :
 
 ## Related Links
 
-1. infura project id for using etherscan mainnet API key :
-   https://app.infura.io/key/759e4fcbf9b7449f854586fb65f43184/all-endpoints
+1. Infura Project ID For Using [Etherscan Mainnet API Key](https://app.infura.io/key/759e4fcbf9b7449f854586fb65f43184/all-endpoints)
 
-2. Etherscan Tokens to get address :
-   https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
+2. [USDT token contract](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7)
+
