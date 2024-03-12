@@ -11,8 +11,8 @@ Command Line App Written in TypeScript that : \*\*\*\* (First Task)
 
 First ,we need to run the below command to test using Jest :
 
-## ----- /_ npx jest _/ -----
+## npx jest
 
 Second , Run the TypeScript application :
 
-## ----- /_ npx ts-node index.ts _/ -----
+## npx ts-node index.ts
